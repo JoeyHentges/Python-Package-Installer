@@ -2,4 +2,3 @@ pip
 imp
 xlwt
 xlrd
-xutils
